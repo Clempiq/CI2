@@ -34,3 +34,4 @@ jobs:
           push: true
           tags: clem45000/quete1902:latest
           context: "{{defaultContext}}:server"
+
